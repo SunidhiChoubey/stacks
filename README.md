@@ -147,7 +147,7 @@ int main()
 }
 ~~~
 ## Output-
-![](
+![](https://github.com/SunidhiChoubey/stacks/blob/main/Screenshot%202024-10-21%20022726.png)
 ![](
 ## Conclusion- 
 We learnt about stacks in C++ and We learnt the various operations of stack in C++.
